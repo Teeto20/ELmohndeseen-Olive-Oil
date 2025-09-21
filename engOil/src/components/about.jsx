@@ -5,7 +5,9 @@ function about() {
   return (
     <div
       id="about"
-      className="p-10 mt-40 bg-gray-50 border border-gray-200 rounded-lg my-5 flex flex-col items-start dark:bg-gray-900 dark:border-gray-700"
+      className="p-10 mt-40 bg-gray-50 border border-gray-200 rounded-lg my-5 flex flex-col items-start dark:bg-gray-900 dark:border-gray-700
+      sm:mx-20 lg:mx-40 xl:mx-60 2xl:mx-80
+      "
     >
       <h1 className="text-2xl font-bold pt-20 text-center text-gray-800 mb-2 dark:text-gray-100">
         About Us:
