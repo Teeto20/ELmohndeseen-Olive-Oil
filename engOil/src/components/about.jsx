@@ -16,7 +16,7 @@ function about() {
         We are a company dedicated to providing the best olive oil products.
       </p>
       <p className="text-gray-600 italic mb-2 dark:text-gray-300">
-        Alhamdulillah, Al MOHANDIS olive oil is distinguished by the clarity of
+        Alhamdulillah, Al MOHANDISSEN olive oil is distinguished by the clarity of
         the four quality signs as follows:
       </p>
       <ol className="text-gray-600 pl-5 space-y-2 dark:text-gray-300">
