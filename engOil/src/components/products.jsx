@@ -7,36 +7,41 @@ function Products({ lang = "en" }) {
     lang === "en"
       ? [
           {
-            title: "Olive oil L",
+            title: "Olive Oil L (Plastic)",
             size: "2 Litre",
-            price: 1200,
+            price: 1100,
             image: image2L,
           },
-          { title: "Olive oil M", size: "1 Litre", price: 620, image: image1L },
           {
-            title: "Olive oil S",
+            title: "Olive Oil M (Plastic)",
+            size: "1 Litre",
+            price: 575,
+            image: image1L,
+          },
+          {
+            title: "Olive Oil S (Plastic)",
             size: "0.5 Litre",
-            price: 310,
+            price: 300,
             image: image05L,
           },
         ]
       : [
           {
-            title: "زيت زيتون كبير",
+            title: "زيت زيتون كبير (بلاستيك)",
             size: "٢ لتر",
-            price: "١٢٠٠",
+            price: "١١٠٠",
             image: image2L,
           },
           {
-            title: "زيت زيتون وسط",
+            title: "زيت زيتون وسط (بلاستيك)",
             size: "١ لتر",
-            price: "٦٢٠",
+            price: "٥٧٥",
             image: image1L,
           },
           {
-            title: "زيت زيتون صغير",
+            title: "زيت زيتون صغير (بلاستيك)",
             size: "٠.٥ لتر",
-            price: "٣١٠",
+            price: "٣٠٠",
             image: image05L,
           },
         ];

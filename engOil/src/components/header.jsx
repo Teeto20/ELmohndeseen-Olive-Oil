@@ -38,7 +38,7 @@ const Header = () => {
       sticky top-0 z-50
       dark:bg-gray-900 dark:border-gray-700
       sm:mx-20 lg:mx-40 xl:mx-60 2xl:mx-80"
-      style={{ direction: lang === "en" ? "ltr" : "rtl" }}
+        style={{ direction: lang === "en" ? "ltr" : "rtl" }}
       >
         <div className="flex items-center w-full sm:w-auto mb-1 sm:mb-0">
           <img
@@ -47,7 +47,7 @@ const Header = () => {
             className="w-10 h-10 sm:w-12 sm:h-12 rounded-full"
           />
           <h3 className="ml-2 text-sm sm:text-base font-semibold text-gray-900 dark:text-gray-100">
-            {lang === "en" ? "Engineer's Olive oil" : "زيت زيتون المهندسين"}
+            {lang === "en" ? "Engineer's Olive Oil" : "زيت زيتون المهندسين"}
           </h3>
         </div>
         <div className="flex items-center w-full sm:w-auto justify-end mb-1 sm:mb-0 gap-2">
