@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function navbar({ links }) {
+function Navbar({ links }) {
   const [open, setOpen] = useState(false);
 
   return (
@@ -43,4 +43,4 @@ function navbar({ links }) {
   );
 }
 
-export default navbar;
+export default Navbar;
