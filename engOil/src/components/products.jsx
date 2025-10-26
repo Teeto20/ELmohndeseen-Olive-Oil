@@ -29,19 +29,19 @@ function Products({ lang = "en" }) {
           {
             title: "زيت زيتون كبير (بلاستيك)",
             size: "٢ لتر",
-            price: "١١٠٠",
+            price: "١٠٠٠",
             image: image2L,
           },
           {
             title: "زيت زيتون وسط (بلاستيك)",
             size: "١ لتر",
-            price: "٥٧٥",
+            price: "٥..",
             image: image1L,
           },
           {
             title: "زيت زيتون صغير (بلاستيك)",
-            size: "٠.٥ لتر",
-            price: "٣٠٠",
+            size: " (الكمية محدودة)٠.٥ لتر",
+            price: "٢٥٠",
             image: image05L,
           },
         ];
